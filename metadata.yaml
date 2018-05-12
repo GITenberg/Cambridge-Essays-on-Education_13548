@@ -1,0 +1,37 @@
+_repo: Cambridge-Essays-on-Education_13548
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Benson, Arthur Christopher
+    aliases:
+    - Benson, A. C. (Arthur Christopher)
+    - Carr, Christopher
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '1486'
+    url: http://www.gutenberg.org/2009/agents/1486
+    wikipedia: http://en.wikipedia.org/wiki/A._C._Benson
+description: ''
+gutenberg_issued: '2004-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education'
+- !lcc 'LB'
+tableOfContents: The aim of educational reform, by J. L. Paton -- The training of
+  the reason, by W. R. Inge -- The training of the imagination, by A. C. Benson --
+  Religion at school, by W. W. Vaughan -- Citizenship, by A. Mansbridge -- The place
+  of literature in education, by N. Smith -- The place of science in education, by
+  W. Bateson -- Athletics, by F. B. Malim -- The use of leisure, by J. H. Badley --
+  Preparation for practical life, by Sir J. D. McClure -- Teaching as a profession,
+  by F. Roscoe.
+title: Cambridge Essays on Education
+url: http://www.gutenberg.org/ebooks/13548
